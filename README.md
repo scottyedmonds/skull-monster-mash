@@ -3,3 +3,4 @@ This is a small project i decided to work on. I got a skull from the dollar stor
 
 ## Schematic
 
+![pinout][/doc/MonsterMashSkull Pinout_bb.png]
