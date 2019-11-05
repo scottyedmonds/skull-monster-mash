@@ -1,7 +1,7 @@
 ## Preface
 This is a small project I decided to work on. I got a skull from the dollar store that had a moving jaw and I thought why not try and motorize it.  I did some searching online and found some traces of [JawDuino](https://www.servomagazine.com/magazine/article/bob-the-talking-skull-controlled-by-jawduino) but I wanted to use a Raspberry Pi and Python(*since I'm slowly working on learning python*). 
 
-This isnt a complete project. Current *(As of Oct 29, 2019)* all the attached code will do is
+This isnt a complete project. Current *(As of Oct 29, 2019)* all the attached code will do is move the jaw in a somewhat smooth fashion - this is completed by running a range that takes the initial number of 4, deviding that 10.0 then adding 3. The end goal is to control the jaw using a PWM signal from a hat. It will take an audio file and turn the audio spectrum into a PWM signal to control the servo. 
 
 ## Parts
 
@@ -9,6 +9,8 @@ This isnt a complete project. Current *(As of Oct 29, 2019)* all the attached co
 * EMAX ES08A II servo
 * Some sort of skull?
 * jumper wires, etc
+
+*Some photos can be found in the doc folder*
 
 ## Schematic
 
